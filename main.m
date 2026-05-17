@@ -1,6 +1,6 @@
 % =========================================
 % Hand Digit Recognition using KNN
-% Author: Your Name
+% Author: MD TANVIR AHMED BHUIYAN
 % Description: Recognizes handwritten digits
 %              (0-9) using KNN classifier
 % =========================================
