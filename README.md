@@ -41,5 +41,5 @@ main
 - Statistics and Machine Learning Toolbox (for `fitcknn`)
 
 ## 👤 Author
-Your Name  
-GitHub: https://github.com/your_username  
+MD TANVIR AHMED BHUIYAN
+GitHub:   https://github.com/tanvir-ahmed03
